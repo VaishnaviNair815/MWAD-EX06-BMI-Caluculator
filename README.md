@@ -151,6 +151,7 @@ button:hover {
 }
 ```
 ## OUTPUT
-![alt text](<ss/Screenshot 2025-11-14 205858.png>)
+   <img width="1702" height="991" alt="Screenshot 2025-11-14 205858" src="https://github.com/user-attachments/assets/0e94ae3a-b337-4b2b-925f-7932ec0d47f2" />
+    
 ## RESULT
 The program for creating BMI Calculator using React Router is executed successfully.
